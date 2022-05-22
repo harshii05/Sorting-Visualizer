@@ -1,0 +1,13 @@
+.array-container{
+    position:absolute;
+    left: 100px;
+}
+.aa{
+    display: inline-block;
+    margin-right: 20px;
+}
+.array-bar{
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+}
